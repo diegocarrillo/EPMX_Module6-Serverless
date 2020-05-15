@@ -63,7 +63,7 @@ Download the test [Files](https://linuxacademy.com/cp/guides/download/refsheets/
 ```json
 Head back to the bucket.
 Click Upload.
-Select and upload the sample audio file from the lab files download: Click here for the lab files. Unzip the zip file to see the files, including the audio file.
+Select and upload the sample audio file from the lab files. Unzip the zip file to see the files, including the audio file.
 Navigate to Lambda.
 Click our function name.
 Click Monitoring, where we should see CloudWatch metric populate.
