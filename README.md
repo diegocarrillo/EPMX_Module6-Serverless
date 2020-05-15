@@ -59,7 +59,7 @@ Click Save.
 ```
 
 ## Test the Architecture
-Download the test [Files](https://linuxacademy.com/cp/guides/download/refsheets/guides/refsheets/Trigger-an-AWS-Lambda-Function-from-an-S3-Event-LAB-FILES_1583241901.zip)
+Download the test [Files](https://github.com/diegocarrillo/EPMX_Module6-Serverless/blob/master/Trigger-Files.zip)
 ```json
 Head back to the bucket.
 Click Upload.
